@@ -65,7 +65,7 @@ Este repositorio contiene **únicamente código propio** y no incluye informaci�
     SQL_USER=your_user
     SQL_PASS=your_password
     SQL_BBDD=your_database
-
+```
 
 4.- Ejecuta npm start.
 

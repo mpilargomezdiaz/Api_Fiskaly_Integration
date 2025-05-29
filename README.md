@@ -82,3 +82,9 @@ Para realizar las pruebas relacionadas con las facturas y otros endpoints de la 
 2.- Asegúrate de tener la API en ejecución con el comando npm start.
 
 3.- ¡Ya está todo preparado para que realices tus pruebas!
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.

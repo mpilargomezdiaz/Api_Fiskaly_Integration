@@ -85,9 +85,9 @@ Para realizar las pruebas relacionadas con las facturas y otros endpoints de la 
 
 ---
 
-## 📄 License
+## 📄 Licencia
 
-This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License. See the [LICENSE](./LICENSE) file for details.
+Este proyecto está licenciado bajo la licencia Creative Commons Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0). Consulta el archivo [LICENSE](./LICENSE) para más detalles.
 
-You can freely use, copy, and modify this code for non-commercial purposes, but commercial use is not permitted.
+Puedes usar, copiar y modificar este código libremente para fines **no comerciales**, siempre que se mantenga la atribución correspondiente. **No está permitido su uso comercial**.
 

@@ -87,4 +87,7 @@ Para realizar las pruebas relacionadas con las facturas y otros endpoints de la 
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License. See the [LICENSE](./LICENSE) file for details.
+
+You can freely use, copy, and modify this code for non-commercial purposes, but commercial use is not permitted.
+
